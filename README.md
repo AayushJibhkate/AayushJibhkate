@@ -14,7 +14,7 @@ I enjoy solving real-world problems through software development, data analytics
 - **Backend Development:** .NET, ASP.NET Core, Entity Framework Core, LINQ, REST APIs
 - **Databases:** SQL Server, MySQL, Neo4j, Cypher
 - **Data Analytics:** Pandas, NumPy, Power BI, SQL
-- **Causal Modeling:** Structural Causal Models, SHAP, Shapley Attribution, Lift Analysis
+- **Causal Modeling:** Structural Causal Models, Shapley Attribution, Lift Analysis
 - **AI & Machine Learning:** Scikit-learn, RAG, LangChain, LangGraph, Groq LLM
 - **Tools:** Git, GitHub, Azure DevOps
 
@@ -39,12 +39,6 @@ I enjoy solving real-world problems through software development, data analytics
 - Agentic AI and LLM Applications
 - Advanced Python
 
-## 🤝 Connect With Me
-
-- LinkedIn: Add your LinkedIn profile URL
-- Email: Add your professional email address
-
----
 
 ⭐ Thanks for visiting my profile!
 
